@@ -543,6 +543,8 @@ section[id]{scroll-margin-top:80px}
 @media(min-width:1101px){.coaches.n4{grid-template-columns:repeat(4,1fr);gap:28px}.coaches.n4 .coach .fn{font-size:18px}}
 .coach .where{margin-top:10px;font:600 14px/1.4 Manrope,sans-serif;color:var(--blue)}
 .coach .exp.none{display:none}
+.coach .coach-vk{display:inline-block;margin-top:12px;font:700 14px/1 Manrope,sans-serif;color:var(--blue);border-bottom:2px solid var(--gold);padding-bottom:4px}
+.coach .coach-vk:hover{color:var(--ink)}
 
 /* 04 — как записаться */
 #join{padding:104px var(--pad);background:var(--soft)}
